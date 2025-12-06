@@ -1,5 +1,6 @@
-Pallone et al., 2025
-Orbital forcing of the eastern equatorial Pacific thermocline in the late Pleistocene
+Pallone et al., 2025,
+Quaternary Science Reviews,
+Orbital forcing of the eastern equatorial Pacific thermocline in the late Pleistocene,
 Source Code and Source Files
 
 1. System Requirements
